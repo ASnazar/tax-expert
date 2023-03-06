@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tax-expert/static/css/main.ec87f984.css",
+    "main.js": "/tax-expert/static/js/main.720535f2.js",
+    "static/media/logo_2.png": "/tax-expert/static/media/logo_2.fc287647e6e7250ac7c9.png",
+    "static/media/logo.png": "/tax-expert/static/media/logo.66fa1fa21ef4ec8d4285.png",
+    "static/media/logo_burg.png": "/tax-expert/static/media/logo_burg.8b71b3188b3c80306062.png",
+    "index.html": "/tax-expert/index.html",
+    "main.ec87f984.css.map": "/tax-expert/static/css/main.ec87f984.css.map",
+    "main.720535f2.js.map": "/tax-expert/static/js/main.720535f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec87f984.css",
+    "static/js/main.720535f2.js"
+  ]
+}
