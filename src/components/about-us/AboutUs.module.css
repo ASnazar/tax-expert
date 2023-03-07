@@ -8,11 +8,10 @@
 .info{
 
     width: 70%;
-    margin: -4% 15% 15%;
+    margin: -4% 15% 0%;
     height: 200vh;
     background: white;
     border-radius: 15px;
-    position: relative;
 }
 
 .h11{
@@ -45,8 +44,8 @@
     box-sizing: border-box;
     border: 3px solid #fff;
     background-color: #fff;
-    box-shadow: 0px 4px 20px #4d5eae;
-    color: #4d5eae;
+    box-shadow: 0px 4px 20px #000a24;
+    color: black;
     transition: background .1s linear;
     margin-top: 60px;
     border-radius: 10px;
@@ -55,7 +54,7 @@
 
 .btn:hover {
     background: none;
-
+    font-weight: bold;
     color: #fff;
 }
 .boxWelcomeWithImg{

@@ -8,7 +8,7 @@ const Navbar = () =>{
         <header className={style.header}>
             <div  className='conteiner'>
                 <div className={style.box}>
-                    <div className={style.logo_image}>
+                    <div >
                         {/*<img src={Logo_2} alt="/"/>*/}
                     </div>
                     <ul className={nav ? [style.menu, style.active].join(' ') : style.menu }>
