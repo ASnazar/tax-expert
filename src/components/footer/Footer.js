@@ -29,7 +29,7 @@ const Footer = () =>{
                 <a href="https://www.maps.ie/distance-area-calculator.html">area maps</a></iframe></div>
             </div>
             <div className={style.footerYear}>
-                <p><h4>2023</h4></p>
+                <p><h2>2023</h2></p>
             <div className={style.footerMenu}>
                 <p><a href="/home">Головна</a></p>
                 <p><a href="/home">Про нас</a></p>
