@@ -15,10 +15,10 @@ const Navbar = () =>{
                         <div className={style.logo_image_menu}>
                             <img src={Logo_2} alt="/"/>
                             </div>
-                        <li ><a href='#'>Послуги</a> </li>
-                        <li ><a href='#'>Про нас</a> </li>
-                        <li ><a href='#'>Ціни</a> </li>
-                        <li ><a href='#'>Контакти</a> </li>
+                        <li ><a href='/home'>Послуги</a> </li>
+                        <li ><a href='/home'>Про нас</a> </li>
+                        <li ><a href='/home'>Ціни</a> </li>
+                        <li ><a href='/home'>Контакти</a> </li>
 
                     </ul>
                     <div onClick={()=>setNav(!nav)} className={style.mobile_btn}>

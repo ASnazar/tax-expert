@@ -12,15 +12,13 @@
     box-shadow: 0 2px 24px 0 rgb(0 0 0 / 15%);
     background-color: #ffffff !important;
     animation: 500ms ease-in-out 0s normal none 1 running fadeInDown;
-    padding-top: 0px;
-    padding-bottom: 0px;
+    padding-top: 0;
+    padding-bottom: 0;
 }
 .box{
     height: 100px;
     display: flex;
     justify-content: space-around;
-
-    font-family: Arial;
     color: white;
 }
 
@@ -114,7 +112,7 @@
         font-size: 20px;
         padding: 10px 60px;
         border-radius: 40px;
-        margin: 25px 0px;
+        margin: 25px 0;
         cursor: pointer;
     }
     .cal_me_btn button{
